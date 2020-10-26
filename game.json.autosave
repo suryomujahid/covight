@@ -1131,7 +1131,7 @@
         "gridWidth": 48,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.616
+        "zoomFactor": 0.592
       },
       "objectsGroups": [],
       "variables": [],
@@ -1320,7 +1320,7 @@
           "locked": false,
           "name": "obj_hidden_limit",
           "persistentUuid": "178f5232-2453-47c8-a4b1-4a963f05c5fd",
-          "width": 624,
+          "width": 576,
           "x": 0,
           "y": -48,
           "zOrder": 0,
