@@ -22,8 +22,8 @@
     "winExecutableIconFile": "",
     "name": "Covight",
     "author": "Suryo Mujahid",
-    "windowWidth": 1366,
-    "windowHeight": 768,
+    "windowWidth": 800,
+    "windowHeight": 600,
     "latestCompilationDirectory": "",
     "maxFPS": 60,
     "minFPS": 20,
@@ -148,15 +148,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewFile-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewFile-1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
         "file": "assets/Tiles/tile27.png",
         "kind": "image",
         "metadata": "",
@@ -269,15 +260,6 @@
         "kind": "image",
         "metadata": "",
         "name": "NewFile-1-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewObject4-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject4-1.png",
         "smoothed": true,
         "userAdded": true
       },
@@ -469,15 +451,6 @@
         "name": "assets\\character\\pl_run1-5.png",
         "smoothed": true,
         "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "NewObject4-1-0.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject4-1-0.png",
-        "smoothed": true,
-        "userAdded": true
       },
       {
         "alwaysLoaded": false,
@@ -733,15 +706,6 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "NewObject3-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "NewObject3-1.png",
-        "smoothed": true,
-        "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
         "file": "NewObject3-1-0.png",
         "kind": "image",
         "metadata": "",
@@ -775,33 +739,6 @@
         "name": "assets\\NewObject-1-7.png",
         "smoothed": true,
         "userAdded": true
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewObject-1-2-1.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewObject-1-2-1.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewObject-1-2-3.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewObject-1-2-3.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewObject-1-2-2.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "assets\\NewObject-1-2-2.png",
-        "smoothed": true,
-        "userAdded": false
       },
       {
         "alwaysLoaded": false,
@@ -982,6 +919,354 @@
         "name": "assets\\character\\pl_run1-4-0.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Bullet-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bullet-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pause1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\pause1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pause2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\pause2-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pause2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\pause2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pause3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\pause3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject4-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject4-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "karakter_diam.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "karakter_diam.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject4-1-0.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject4-1-0.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "kepala_zombie.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kepala_zombie.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject3-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject3-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Beige-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Beige-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Zombie-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Zombie-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "kepala_human.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "kepala_human.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "dialogue.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "dialogue.json",
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/floor2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\floor2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/floor3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\floor3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/floor4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\floor4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/floor5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\floor5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/background.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\background.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/roof7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\roof7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/block-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\block-3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/roof5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\roof5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/roof6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\roof6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/floor1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\floor1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/block-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\block-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/block-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\block-2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewObject-1-2-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewObject-1-2-1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewObject-1-2-1-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewObject-1-2-1-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewObject-1-2-3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewObject-1-2-3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewObject-1-2-2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\NewObject-1-2-2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/laser.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\laser.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewFile-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewFile-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/furniture-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\furniture-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/furniture-9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\furniture-9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/trap1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\trap1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/roof3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\roof3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tiles/roof2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Tiles\\roof2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "NewObject4-1-1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "NewObject4-1-1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "file": "andlso.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "andlso.ttf",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1014,7 +1299,7 @@
         "gridWidth": 64,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.52
+        "zoomFactor": 0.304
       },
       "objectsGroups": [],
       "variables": [],
@@ -1028,25 +1313,9 @@
           "name": "btn_play",
           "persistentUuid": "5d51e938-3f64-457f-865c-ceed0a40739f",
           "width": 0,
-          "x": 704,
+          "x": 384,
           "y": 384,
           "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "",
-          "locked": false,
-          "name": "btn_credit",
-          "persistentUuid": "18f89d0e-0a28-4e00-a128-9a2d93944417",
-          "width": 0,
-          "x": 704,
-          "y": 512,
-          "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1060,7 +1329,7 @@
           "name": "CovightLogo",
           "persistentUuid": "2a3376f4-3523-4f64-9cf2-6e41742579ae",
           "width": 512,
-          "x": 448,
+          "x": 128,
           "y": 64,
           "zOrder": 3,
           "numberProperties": [],
@@ -1070,13 +1339,13 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 768,
+          "height": 640,
           "layer": "",
           "locked": false,
           "name": "BackgroundImage",
           "persistentUuid": "971d0913-e25a-415b-ab04-44be9a6557d2",
-          "width": 1408,
-          "x": 0,
+          "width": 960,
+          "x": -128,
           "y": 0,
           "zOrder": 0,
           "numberProperties": [],
@@ -1567,30 +1836,30 @@
       ]
     },
     {
-      "b": 170,
+      "b": 0,
       "disableInputWhenNotFocused": true,
       "mangledName": "Game",
       "name": "Game",
       "oglFOV": 90,
       "oglZFar": 500,
       "oglZNear": 1,
-      "r": 170,
+      "r": 0,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 170,
+      "v": 0,
       "uiSettings": {
         "grid": true,
         "gridB": 255,
         "gridG": 180,
-        "gridHeight": 48,
+        "gridHeight": 50,
         "gridOffsetX": 0,
         "gridOffsetY": 0,
         "gridR": 158,
-        "gridWidth": 48,
+        "gridWidth": 25,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.77
+        "zoomFactor": 0.346
       },
       "objectsGroups": [],
       "variables": [
@@ -1606,140 +1875,12 @@
           "height": 48,
           "layer": "",
           "locked": false,
-          "name": "Floor",
-          "persistentUuid": "f4161afe-8d99-4352-a5cf-85af311239d4",
-          "width": 816,
-          "x": 0,
-          "y": 576,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 96,
-          "layer": "",
-          "locked": false,
-          "name": "Floor",
-          "persistentUuid": "9b573a26-bfac-4aa6-a4dc-391829e39d02",
-          "width": 432,
-          "x": 816,
-          "y": 480,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 48,
-          "layer": "",
-          "locked": false,
-          "name": "Floor",
-          "persistentUuid": "6f2917b6-4baa-4562-9938-528de834b4f1",
-          "width": 3072,
-          "x": 1248,
-          "y": 576,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 336,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject2",
-          "persistentUuid": "03a7c6fb-1c53-4f2b-9f99-d7b9b09d3189",
-          "width": 816,
-          "x": 0,
-          "y": 624,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 384,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject2",
-          "persistentUuid": "ae15e140-15de-4ae0-b7e4-b623b14f07ab",
-          "width": 432,
-          "x": 816,
-          "y": 576,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 336,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject2",
-          "persistentUuid": "632140d3-81d1-4b17-b473-80bd55354539",
-          "width": 2640,
-          "x": 1680,
-          "y": 624,
-          "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 672,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject2",
-          "persistentUuid": "188e14fd-91bc-4f7f-bf5d-51a4f57547dd",
-          "width": 144,
-          "x": -144,
-          "y": 0,
-          "zOrder": 23,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 48,
-          "layer": "",
-          "locked": false,
           "name": "obj_limit",
           "persistentUuid": "0277983b-6e25-4f8f-b741-9dba4824d00a",
           "width": 48,
-          "x": 4320,
-          "y": 912,
+          "x": 14700,
+          "y": 1000,
           "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 672,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject2",
-          "persistentUuid": "8afee34c-5ae1-41d8-86a1-066c1852226e",
-          "width": 144,
-          "x": 4320,
-          "y": 0,
-          "zOrder": 23,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1753,24 +1894,8 @@
           "name": "obj_hidden_limit",
           "persistentUuid": "178f5232-2453-47c8-a4b1-4a963f05c5fd",
           "width": 768,
-          "x": 0,
-          "y": -48,
-          "zOrder": 0,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 624,
-          "layer": "",
-          "locked": false,
-          "name": "obj_hidden_limit",
-          "persistentUuid": "45a10055-a671-4ef0-807b-98a3cd687a9b",
-          "width": 720,
-          "x": 3600,
-          "y": -48,
+          "x": 200,
+          "y": 0,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -1785,8 +1910,8 @@
           "name": "Coin",
           "persistentUuid": "77fec14e-8cce-4ebf-90ee-06252e4d245e",
           "width": 0,
-          "x": 1008,
-          "y": 432,
+          "x": 1056,
+          "y": 528,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -1801,8 +1926,8 @@
           "name": "Coin",
           "persistentUuid": "b5a84d77-28bb-4446-b91d-f0448d8c1f75",
           "width": 0,
-          "x": 1104,
-          "y": 432,
+          "x": 1152,
+          "y": 528,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -1817,8 +1942,8 @@
           "name": "Coin",
           "persistentUuid": "a8657612-901b-4e04-b97a-b692a252634d",
           "width": 0,
-          "x": 1056,
-          "y": 432,
+          "x": 1104,
+          "y": 528,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -1852,22 +1977,6 @@
           "x": 48,
           "y": 96,
           "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "height": 336,
-          "layer": "",
-          "locked": false,
-          "name": "NewObject2",
-          "persistentUuid": "bb80f281-f0ef-4f83-909f-7f93f973f46b",
-          "width": 432,
-          "x": 1248,
-          "y": 624,
-          "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1913,9 +2022,297 @@
           "name": "Enemy",
           "persistentUuid": "5b430802-13eb-4221-b5b3-0ee8d109eafb",
           "width": 144,
-          "x": 1344,
-          "y": 432,
+          "x": 1800,
+          "y": 350,
           "zOrder": 49,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "8fe744f8-a670-45ff-a0f6-81aa7d314260",
+          "width": 48,
+          "x": 1725,
+          "y": 450,
+          "zOrder": 50,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 48,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "1987d7bf-2dfc-4331-aa47-670f3d5308de",
+          "width": 48,
+          "x": 2375,
+          "y": 450,
+          "zOrder": 51,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "Chest",
+          "persistentUuid": "c48595d2-3872-41f3-8f4b-7eee40655d3d",
+          "width": 150,
+          "x": 6675,
+          "y": 234,
+          "zOrder": 52,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 42,
+          "layer": "UI",
+          "locked": false,
+          "name": "KeyUI",
+          "persistentUuid": "b154bc2a-3dea-4920-b84f-adcb34f19d81",
+          "width": 42,
+          "x": 45,
+          "y": 144,
+          "zOrder": 53,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 43,
+          "layer": "",
+          "locked": false,
+          "name": "Key",
+          "persistentUuid": "fae08330-e05d-48f8-bc0c-88a431121e62",
+          "width": 43,
+          "x": 6750,
+          "y": 250,
+          "zOrder": 54,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 105,
+          "layer": "",
+          "locked": false,
+          "name": "Player",
+          "persistentUuid": "03e061ab-337b-4269-a832-9e26812a2054",
+          "width": 97,
+          "x": 275,
+          "y": 550,
+          "zOrder": 55,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "604e0eda-b004-4ce3-86de-646e85d47c37",
+          "width": 1700,
+          "x": 100,
+          "y": 600,
+          "zOrder": 56,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "673b57dc-0cb6-40e3-98a0-e0e2a6b3b656",
+          "width": 100,
+          "x": 100,
+          "y": 0,
+          "zOrder": 57,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 500,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "c6ab3dc7-305f-478a-9854-2a1f5e75aa2e",
+          "width": 100,
+          "x": 100,
+          "y": 100,
+          "zOrder": 58,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp3",
+          "persistentUuid": "c75bc796-eee3-43f7-8ea2-5f3dadd39dc0",
+          "width": 100,
+          "x": 100,
+          "y": 600,
+          "zOrder": 59,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp3",
+          "persistentUuid": "7f951011-5e73-4e70-b319-22f91e509d92",
+          "width": 0,
+          "x": 1700,
+          "y": 600,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "f4a443fe-1029-490a-b3b7-8931f629af2e",
+          "width": 800,
+          "x": 1700,
+          "y": 500,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp3",
+          "persistentUuid": "38868bb5-d485-4993-9ff0-f26f1b357d35",
+          "width": 0,
+          "x": 2500,
+          "y": 500,
+          "zOrder": 61,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "8495b61f-a546-46a2-a06c-241215d96450",
+          "width": 1100,
+          "x": 2500,
+          "y": 400,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 3950,
+          "layer": "",
+          "locked": false,
+          "name": "Background",
+          "persistentUuid": "5928295b-534e-4c58-9e74-2157e6c4bcf2",
+          "width": 18975,
+          "x": -400,
+          "y": -3200,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 450,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "883d6728-025e-41f3-b072-4772c97f29dd",
+          "width": 2600,
+          "x": 0,
+          "y": 600,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 550,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "1a9acd02-a718-4494-874c-4ee704cb3d66",
+          "width": 900,
+          "x": 2600,
+          "y": 500,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "MovingPlatform",
+          "persistentUuid": "dd9e031f-0dd1-4b9f-af4a-aec5f20347bf",
+          "width": 250,
+          "x": 3700,
+          "y": 400,
+          "zOrder": 63,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1927,11 +2324,11 @@
           "layer": "",
           "locked": false,
           "name": "ArahKanan",
-          "persistentUuid": "8fe744f8-a670-45ff-a0f6-81aa7d314260",
+          "persistentUuid": "0ab903bc-28b7-4954-8b46-0de3c9d76c0b",
           "width": 0,
-          "x": 1248,
-          "y": 528,
-          "zOrder": 50,
+          "x": 3625,
+          "y": 400,
+          "zOrder": 64,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1943,11 +2340,11 @@
           "layer": "",
           "locked": false,
           "name": "ArahKiri",
-          "persistentUuid": "1987d7bf-2dfc-4331-aa47-670f3d5308de",
+          "persistentUuid": "b9cf1f7e-88d5-4d62-b59a-661e6438b23b",
           "width": 0,
-          "x": 2160,
-          "y": 528,
-          "zOrder": 51,
+          "x": 4350,
+          "y": 400,
+          "zOrder": 65,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1955,47 +2352,31 @@
         {
           "angle": 0,
           "customSize": true,
-          "height": 144,
+          "height": 550,
           "layer": "",
           "locked": false,
-          "name": "Chest",
-          "persistentUuid": "c48595d2-3872-41f3-8f4b-7eee40655d3d",
-          "width": 144,
-          "x": 576,
-          "y": 528,
-          "zOrder": 52,
+          "name": "Block2",
+          "persistentUuid": "edeffc71-12bf-453a-a985-f109229943bd",
+          "width": 100,
+          "x": 3500,
+          "y": 500,
+          "zOrder": 66,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "layer": "UI",
-          "locked": false,
-          "name": "KeyUI",
-          "persistentUuid": "b154bc2a-3dea-4920-b84f-adcb34f19d81",
-          "width": 0,
-          "x": 48,
-          "y": 144,
-          "zOrder": 53,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "height": 100,
           "layer": "",
           "locked": false,
-          "name": "Key",
-          "persistentUuid": "fae08330-e05d-48f8-bc0c-88a431121e62",
-          "width": 0,
-          "x": 336,
-          "y": 528,
-          "zOrder": 54,
+          "name": "MovingPlatform",
+          "persistentUuid": "02de37bf-3179-47c0-ba00-2a6d5393ab34",
+          "width": 200,
+          "x": 4750,
+          "y": 400,
+          "zOrder": 63,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2006,12 +2387,2604 @@
           "height": 0,
           "layer": "",
           "locked": false,
-          "name": "Player",
-          "persistentUuid": "03e061ab-337b-4269-a832-9e26812a2054",
+          "name": "ArahKanan",
+          "persistentUuid": "27d9944e-4b73-4577-b73b-9bf1a7a0283e",
           "width": 0,
-          "x": 912,
-          "y": 402,
-          "zOrder": 55,
+          "x": 4600,
+          "y": 400,
+          "zOrder": 64,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "6c24ab9a-8ae9-4b26-8dce-be7f3271655a",
+          "width": 0,
+          "x": 5400,
+          "y": 400,
+          "zOrder": 65,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 650,
+          "layer": "",
+          "locked": false,
+          "name": "Block3",
+          "persistentUuid": "d5c99c5a-a6cc-4475-ba19-13b8ecb15138",
+          "width": 100,
+          "x": 5475,
+          "y": 400,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "fe2df74c-66db-4493-859c-fc52de3d4eac",
+          "width": 200,
+          "x": 5475,
+          "y": 300,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 650,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "84707b45-8a17-4cb1-a2d5-1a7a22ed4fbc",
+          "width": 900,
+          "x": 5575,
+          "y": 400,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorWVent",
+          "persistentUuid": "a9de0c7e-f162-4458-81d6-fae9d81f1b03",
+          "width": 0,
+          "x": 5675,
+          "y": 300,
+          "zOrder": 71,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "ca9ad1fb-8d02-49c2-b636-27f5373a6b18",
+          "width": 600,
+          "x": 5775,
+          "y": 300,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 800,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp4",
+          "persistentUuid": "65cacd5c-b00b-4e4a-8a84-0b8fe0ba08e3",
+          "width": 100,
+          "x": 6375,
+          "y": -400,
+          "zOrder": 72,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 800,
+          "layer": "",
+          "locked": false,
+          "name": "Escx",
+          "persistentUuid": "be03b1e7-8eb2-4efc-83b3-b1c071de8137",
+          "width": 100,
+          "x": 6275,
+          "y": -500,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 800,
+          "layer": "",
+          "locked": false,
+          "name": "Escx",
+          "persistentUuid": "c45f6b40-4923-43c6-8b42-3c55341b056b",
+          "width": 100,
+          "x": 6000,
+          "y": -500,
+          "zOrder": 73,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "ac493046-7d46-4d6f-bfc4-ee1db76097ef",
+          "width": 225,
+          "x": 6075,
+          "y": 200,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "1f3be8c2-13d3-446e-b134-d8ff783b7ccd",
+          "width": 225,
+          "x": 6075,
+          "y": 100,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "b587fcae-935b-4714-ac3d-99c78a570247",
+          "width": 225,
+          "x": 6075,
+          "y": 0,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "216010b1-069e-4c02-b175-1b55bcb35dfc",
+          "width": 225,
+          "x": 6075,
+          "y": -100,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "668e19c1-86f4-4a24-bae0-224addee8c23",
+          "width": 225,
+          "x": 6075,
+          "y": -200,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "c4ae2c90-2d1d-4296-b2b3-a0d3764b121b",
+          "width": 225,
+          "x": 6075,
+          "y": -300,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "a2430802-deb8-4938-953f-ca4a45d94dd0",
+          "width": 225,
+          "x": 6075,
+          "y": -400,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "79de958e-b6de-42d7-8720-ffa275df62cd",
+          "width": 225,
+          "x": 6075,
+          "y": -500,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "ae077972-3212-49f5-a214-7629c71c8aaa",
+          "width": 0,
+          "x": 6375,
+          "y": -500,
+          "zOrder": 75,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "7e1ced40-14ce-4baf-96c2-f90162f015c8",
+          "width": 1500,
+          "x": 6475,
+          "y": -500,
+          "zOrder": 76,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 750,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "64001d31-f475-4205-80a9-2744b778bb6b",
+          "width": 1400,
+          "x": 6475,
+          "y": -400,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "546de998-ee32-443f-ba3e-a5cc4c332e39",
+          "width": 5500,
+          "x": 6450,
+          "y": 300,
+          "zOrder": 69,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 650,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "ac9d541b-2fd8-4f8b-aa6c-8f35b212cb45",
+          "width": 5475,
+          "x": 6475,
+          "y": 400,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "2c9214cd-620f-473b-9e87-3ae7a1618ab2",
+          "width": 225,
+          "x": 7975,
+          "y": -500,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "494da907-c52a-4e71-aae8-bd25d23545c1",
+          "width": 225,
+          "x": 8200,
+          "y": -350,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "d6ad29ba-b693-49a9-9d8b-5747f4c61544",
+          "width": 100,
+          "x": 7875,
+          "y": -400,
+          "zOrder": 77,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp3",
+          "persistentUuid": "846ff78e-99c8-4b0a-b77a-0cdf41bdb6ab",
+          "width": 0,
+          "x": 7875,
+          "y": 0,
+          "zOrder": 78,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "8bcc1891-a688-4ac1-bec7-74cdd415a009",
+          "width": 0,
+          "x": 2950,
+          "y": 300,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "2c7f9b9d-63cc-4bd5-a28e-16b503978746",
+          "width": 0,
+          "x": 3025,
+          "y": 300,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "653f847c-21cf-445f-9f6a-12644e8721b4",
+          "width": 0,
+          "x": 3100,
+          "y": 300,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "c085d219-a7df-4920-bde3-d2ecb5b84ff7",
+          "width": 0,
+          "x": 3853.47,
+          "y": 292.701,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "42b87b8b-87c2-40e7-8bca-fe748e73cde7",
+          "width": 0,
+          "x": 5575,
+          "y": 200,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "b915ad80-6639-4a8e-a9e8-4acf1a861561",
+          "width": 125,
+          "x": 7975,
+          "y": 0,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "01766bdc-feef-4b17-8169-b7bdb6fcbacc",
+          "width": 125,
+          "x": 8125,
+          "y": 200,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "b4634e8a-128a-463b-a67f-1122808a4c3a",
+          "width": 225,
+          "x": 8450,
+          "y": -200,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "0868ec80-8aa5-47b6-a30e-14509eff0149",
+          "width": 225,
+          "x": 8750,
+          "y": -50,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "7607d7dd-561a-4ea3-b8aa-6fcfe19110d6",
+          "width": 225,
+          "x": 9050,
+          "y": 50,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "378ea800-da03-48c1-895d-367abf56abfd",
+          "width": 225,
+          "x": 9375,
+          "y": 150,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 200,
+          "layer": "",
+          "locked": false,
+          "name": "Laser",
+          "persistentUuid": "e1639648-756e-40cd-b1da-eeb4eaa4c724",
+          "width": 25,
+          "x": 7925,
+          "y": 100,
+          "zOrder": 79,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 400,
+          "layer": "",
+          "locked": false,
+          "name": "Lava",
+          "persistentUuid": "1d4da40f-b675-4ec3-b0bc-ee44be8a07eb",
+          "width": 1875,
+          "x": 3600,
+          "y": 650,
+          "zOrder": 80,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Furni",
+          "persistentUuid": "f12b0252-7e3a-4370-b342-595432bbe643",
+          "width": 0,
+          "x": 7000,
+          "y": 100,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Furni",
+          "persistentUuid": "1c9ef887-bb2b-4699-a230-045a977a9e1d",
+          "width": 0,
+          "x": 7225,
+          "y": 100,
+          "zOrder": 81,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Drawer",
+          "persistentUuid": "aa39eedc-90d3-408c-8dbb-5b9b38676433",
+          "width": 0,
+          "x": 7475,
+          "y": 200,
+          "zOrder": 82,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "039ec678-4fe2-46ef-85ae-f126135b725b",
+          "width": 0,
+          "x": 10350,
+          "y": 250,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "7c9dcc02-519c-4e0e-b202-75c702f60f66",
+          "width": 0,
+          "x": 10750,
+          "y": 250,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "8b64bf58-ac58-4c17-925a-dabd1e200c98",
+          "width": 0,
+          "x": 11350,
+          "y": 250,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "be2ca8d4-b98d-4049-81ef-25470cdfc42d",
+          "width": 0,
+          "x": 11750,
+          "y": 250,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "2f9cdca6-c20f-42b5-ac53-a620e1ef7046",
+          "width": 1275,
+          "x": 12050,
+          "y": 200,
+          "zOrder": 84,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 200,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "315b3680-88a3-4881-b502-c9ec760afc25",
+          "width": 100,
+          "x": 11950,
+          "y": 200,
+          "zOrder": 85,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 750,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "e495ecaa-c9c0-42d1-a635-e7a2e79cbbd2",
+          "width": 1375,
+          "x": 11950,
+          "y": 300,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1300,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "d9fe78b5-0268-4251-80f0-1550bc85a756",
+          "width": 100,
+          "x": 13325,
+          "y": -250,
+          "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 50,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "e5dae91b-ef85-4594-a208-2accf3d528ec",
+          "width": 825,
+          "x": 12500,
+          "y": 150,
+          "zOrder": 83,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp3",
+          "persistentUuid": "352443b1-6385-4612-acbc-f1aafa7580d9",
+          "width": 0,
+          "x": 7875,
+          "y": -350,
+          "zOrder": 88,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "405ff89d-6d59-4d13-841f-0f0141322f45",
+          "width": 125,
+          "x": 7750,
+          "y": 200,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "069983b8-248f-4816-9dbb-eef4ab376bca",
+          "width": 0,
+          "x": 13325,
+          "y": -350,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "4639ee47-66df-417d-83f6-156e2cce69db",
+          "width": 1000,
+          "x": 12100,
+          "y": -350,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp3",
+          "persistentUuid": "29952c1b-6c31-4de4-8888-67403dd0e860",
+          "width": 0,
+          "x": 12100,
+          "y": -250,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "9ea3e736-8b65-43a5-9a5a-365254c7e4c8",
+          "width": 200,
+          "x": 13125,
+          "y": 0,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "ad16a627-2367-499f-a2e5-60e2ba7fe7ca",
+          "width": 200,
+          "x": 13125,
+          "y": -100,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "62c2cee5-bc87-4ef4-a40a-48f81912c2ee",
+          "width": 200,
+          "x": 13125,
+          "y": -200,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "9e0ad0f6-2820-40ca-8fc3-04ba0ada9c91",
+          "width": 225,
+          "x": 13100,
+          "y": -300,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "MovingPlatform",
+          "persistentUuid": "151d4a66-71c6-4ab9-9dd2-b3463bd26543",
+          "width": 0,
+          "x": 12500,
+          "y": 50,
+          "zOrder": 93,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "a2a60f88-81d0-4fc8-bbe0-2956ab4c1ec2",
+          "width": 0,
+          "x": 12400,
+          "y": 100,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "1118d1e5-5a35-435e-b72a-2b3d0c057ad4",
+          "width": 0,
+          "x": 12450,
+          "y": 50,
+          "zOrder": 94,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "38b44c9f-1172-4b29-a47c-aed3dcac0fb8",
+          "width": 0,
+          "x": 13125,
+          "y": 50,
+          "zOrder": 95,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "c270ea4a-56b6-4600-bcfe-03a2178f57a5",
+          "width": 0,
+          "x": 10375,
+          "y": 150,
+          "zOrder": 96,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "fb4b7b5c-b738-4908-ba57-122f5d35770a",
+          "width": 0,
+          "x": 10775,
+          "y": 150,
+          "zOrder": 97,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "50885821-7cff-4a0d-a978-a1c522d171e3",
+          "width": 0,
+          "x": 11375,
+          "y": 150,
+          "zOrder": 98,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "c7c08266-fa68-4057-9d1f-e79c714b97d6",
+          "width": 0,
+          "x": 11775,
+          "y": 150,
+          "zOrder": 99,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Enemy",
+          "persistentUuid": "5d96f2bc-66be-4f78-8da5-e2a6ce65353f",
+          "width": 100,
+          "x": 6975,
+          "y": 200,
+          "zOrder": 100,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "fe452e8f-24e3-4225-ba17-0705ff26d49f",
+          "width": 0,
+          "x": 6925,
+          "y": 200,
+          "zOrder": 101,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "3d48bfbf-1bf5-40d6-af81-7040d749face",
+          "width": 0,
+          "x": 7525,
+          "y": 200,
+          "zOrder": 102,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "2a4174b1-8e02-4229-8778-5ffbc0ffdfdd",
+          "width": 300,
+          "x": 13425,
+          "y": -350,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1300,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "e58baabb-cf7d-4e7b-982f-d888743c94bd",
+          "width": 100,
+          "x": 13325,
+          "y": -250,
+          "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 850,
+          "layer": "",
+          "locked": false,
+          "name": "Lava",
+          "persistentUuid": "892114e3-294a-457c-a54e-e94339bd37f6",
+          "width": 750,
+          "x": 13425,
+          "y": 200,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 850,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "bbe73af9-7be6-478b-872f-0a7712172b98",
+          "width": 100,
+          "x": 14100,
+          "y": 200,
+          "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "33dd3ed0-b256-40fe-9fe9-5a954a25c791",
+          "width": 0,
+          "x": 14100,
+          "y": 100,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "12ca509e-6dc6-4baa-87bd-f8cd1cf981f4",
+          "width": 400,
+          "x": 14200,
+          "y": 100,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "a532f1a7-3abd-49bd-95c4-19c4f852474e",
+          "width": 100,
+          "x": 13725,
+          "y": -300,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 500,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "6a480e60-79dd-4c19-837b-e26841d1035e",
+          "width": 1150,
+          "x": 12175,
+          "y": -300,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 850,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "91a5ad2d-7314-4a2d-9aec-71f7e9abfa71",
+          "width": 400,
+          "x": 14200,
+          "y": 200,
+          "zOrder": 70,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 850,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "4e0c28be-f724-48d0-bc37-c84db9701fd3",
+          "width": 100,
+          "x": 14600,
+          "y": 200,
+          "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "17b1125c-7c75-4a4b-8bca-8361bb5948ce",
+          "width": 0,
+          "x": 14600,
+          "y": 100,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1150,
+          "layer": "",
+          "locked": false,
+          "name": "Escx",
+          "persistentUuid": "9ceb82e9-a9c7-469c-9e8c-9165180eebed",
+          "width": 100,
+          "x": 14600,
+          "y": -1050,
+          "zOrder": 103,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "3b0e385c-b020-4e45-89c6-fa5ecaf081b5",
+          "width": 175,
+          "x": 14475,
+          "y": 0,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "238e8f03-ac1c-48c4-a4d0-d970b29b23cc",
+          "width": 175,
+          "x": 14475,
+          "y": -150,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "62358ad7-e6bc-400a-b445-ceec7a066196",
+          "width": 175,
+          "x": 14475,
+          "y": -300,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "b80c2d37-b68e-42af-a560-c08ef5eae800",
+          "width": 175,
+          "x": 14475,
+          "y": -450,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "6f7e1884-4a68-4799-b038-8328572b24a4",
+          "width": 175,
+          "x": 14475,
+          "y": -600,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "f8cfe09a-0c5c-48d1-8462-185ab03cf6a0",
+          "width": 175,
+          "x": 14475,
+          "y": -750,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "620905d7-e07d-4c74-8176-d2092b0394b4",
+          "width": 175,
+          "x": 14475,
+          "y": -950,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Roof",
+          "persistentUuid": "c0a6238b-0575-4906-a6b5-492790626828",
+          "width": 1500,
+          "x": 100,
+          "y": -50,
+          "zOrder": 104,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Roof",
+          "persistentUuid": "0dc672e0-289e-4db4-ace5-7d0798201f4f",
+          "width": 3125,
+          "x": 1700,
+          "y": -150,
+          "zOrder": 104,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Roof2",
+          "persistentUuid": "8e850515-220a-47e8-b465-6dede580f16e",
+          "width": 0,
+          "x": 4825,
+          "y": -150,
+          "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Roof",
+          "persistentUuid": "6290847b-50ed-4e3a-92d5-5358b383139a",
+          "width": 450,
+          "x": 4925,
+          "y": -250,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Roof2",
+          "persistentUuid": "32841578-77a5-45a6-b1dc-909fef59f638",
+          "width": 0,
+          "x": 5375,
+          "y": -250,
+          "zOrder": 105,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 950,
+          "layer": "",
+          "locked": false,
+          "name": "Block2",
+          "persistentUuid": "407ea205-f490-48c6-94ae-846a3ff1402b",
+          "width": 100,
+          "x": 5375,
+          "y": -1200,
+          "zOrder": 107,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Roof",
+          "persistentUuid": "ba7c78e5-9527-49e4-aaae-b97770dbcbfb",
+          "width": 4325,
+          "x": 5475,
+          "y": -1300,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Roof",
+          "persistentUuid": "c6d11e21-7d6e-46ad-bfd9-a0edede229b7",
+          "width": 2200,
+          "x": 9900,
+          "y": -500,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 800,
+          "layer": "",
+          "locked": false,
+          "name": "Block3",
+          "persistentUuid": "02b8ab80-6beb-4f8d-b8d3-a5537cb61918",
+          "width": 100,
+          "x": 9800,
+          "y": -1200,
+          "zOrder": 67,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 650,
+          "layer": "",
+          "locked": false,
+          "name": "Block2",
+          "persistentUuid": "d4aa095e-dbaa-456f-b909-84ba7e77ba49",
+          "width": 100,
+          "x": 12000,
+          "y": -1050,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Roof",
+          "persistentUuid": "11c4e868-dd76-4fb4-9fe5-0a87c945f895",
+          "width": 2275,
+          "x": 12075,
+          "y": -900,
+          "zOrder": 106,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 600,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "755f744a-fe62-4df0-a587-f52f3a03872b",
+          "width": 2200,
+          "x": 9900,
+          "y": -1100,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 800,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "3d0eb872-f89d-490c-8610-e054ec52c8ce",
+          "width": 4825,
+          "x": 100,
+          "y": -850,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1150,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "bef09d4e-cd7f-4120-a4ec-c71b94fb3d68",
+          "width": 1125,
+          "x": 4250,
+          "y": -1350,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 750,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "08c640dd-a78f-48a1-a9cf-c0148de36ba3",
+          "width": 4700,
+          "x": 5325,
+          "y": -1950,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "a442dbd6-7aa6-4de9-808b-640d6faaafc8",
+          "width": 2300,
+          "x": 12050,
+          "y": -1000,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 150,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "47bf56c6-c892-4901-9cb6-b14a7f43da9f",
+          "width": 100,
+          "x": 12050,
+          "y": -1050,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "a2d7d34f-cca8-4579-9531-e004c2034d67",
+          "width": 0,
+          "x": 12050,
+          "y": -1100,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "555eee3f-fc05-4ca3-bb17-9124fede85b7",
+          "width": 2000,
+          "x": 10050,
+          "y": -1200,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 550,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "e15164a9-9cd7-4869-bfaa-d3ac8ae76d73",
+          "width": 800,
+          "x": 9225,
+          "y": -1300,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 750,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "05e05446-3eba-4ee5-896e-c1e0d2d6ca32",
+          "width": 100,
+          "x": 10000,
+          "y": -1850,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp",
+          "persistentUuid": "59482420-a0cf-4096-9dfd-57754b2425a7",
+          "width": 0,
+          "x": 10000,
+          "y": -1950,
+          "zOrder": 89,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "d3a58b00-3635-476d-944f-f406be7d5029",
+          "width": 225,
+          "x": 10100,
+          "y": -1300,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "b35231b3-c703-48a1-8160-0a7b137b5bdc",
+          "width": 225,
+          "x": 10100,
+          "y": -1400,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "29fa7731-8372-4024-b1ab-f3b7a6bf1d18",
+          "width": 225,
+          "x": 10100,
+          "y": -1600,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "a5ce06bb-b125-4eaf-9263-2c9dacc4a08e",
+          "width": 2000,
+          "x": 8000,
+          "y": -2050,
+          "zOrder": 90,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1250,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "409156ec-5aad-43d2-ad40-1c70f984c8a9",
+          "width": 100,
+          "x": 7900,
+          "y": -3200,
+          "zOrder": 91,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 1250,
+          "layer": "",
+          "locked": false,
+          "name": "Block",
+          "persistentUuid": "a50d23e1-6d79-4636-adaf-cc6f020fdb8a",
+          "width": 1125,
+          "x": 6800,
+          "y": -3200,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "5b94c052-82f2-47a7-b8c2-57260b405a98",
+          "width": 0,
+          "x": 12750,
+          "y": -1050,
+          "zOrder": 108,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "d602d7fe-12d6-434c-bc7f-3844f6a502a0",
+          "width": 0,
+          "x": 13050,
+          "y": -1050,
+          "zOrder": 109,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "5675f044-e718-415c-82e9-31f8e2cc7e53",
+          "width": 0,
+          "x": 13350,
+          "y": -1050,
+          "zOrder": 110,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "764b385e-36f5-4de4-a83b-253353385ced",
+          "width": 0,
+          "x": 13650,
+          "y": -1050,
+          "zOrder": 111,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Trap",
+          "persistentUuid": "be2f7fed-2651-49c2-ba3c-b8c13a04d3b8",
+          "width": 0,
+          "x": 13950,
+          "y": -1050,
+          "zOrder": 112,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 2450,
+          "layer": "",
+          "locked": false,
+          "name": "FloorUp2",
+          "persistentUuid": "00d96485-9e29-4d87-8d91-f20646325f6a",
+          "width": 100,
+          "x": 14700,
+          "y": -1650,
+          "zOrder": 87,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "6cd8dfdd-6b96-4a81-bb3a-1f2a6f37f581",
+          "width": 0,
+          "x": 11725,
+          "y": -1300,
+          "zOrder": 113,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "d0b555fd-ed7c-4150-b40a-9893c2e51e9b",
+          "width": 0,
+          "x": 11425,
+          "y": -1300,
+          "zOrder": 114,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "1edc7907-d37b-46b3-84ce-e2877565dc02",
+          "width": 0,
+          "x": 11125,
+          "y": -1300,
+          "zOrder": 115,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "247b42ff-0d4f-49a6-9eda-accb875bf49e",
+          "width": 0,
+          "x": 10800,
+          "y": -1300,
+          "zOrder": 116,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Coin",
+          "persistentUuid": "415d0d61-5d5b-43d6-911b-58fc0894a714",
+          "width": 0,
+          "x": 10625,
+          "y": -1300,
+          "zOrder": 117,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "Door",
+          "persistentUuid": "6fb4994d-b62b-449e-9330-c634103016d3",
+          "width": 0,
+          "x": 8375,
+          "y": -2250,
+          "zOrder": 118,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Enemy",
+          "persistentUuid": "5aeca4f2-af77-494e-8c67-f58c24f06d02",
+          "width": 100,
+          "x": 10975,
+          "y": -1350,
+          "zOrder": 119,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "189a8dc8-207a-45fc-aadf-33b6e17ff585",
+          "width": 0,
+          "x": 11725,
+          "y": -1300,
+          "zOrder": 120,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "d7f478cf-1a74-4e10-abd9-c2c63f40496a",
+          "width": 0,
+          "x": 10800,
+          "y": -1300,
+          "zOrder": 121,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Enemy",
+          "persistentUuid": "c09430ce-0b9a-492a-96ad-961c8827e700",
+          "width": 100,
+          "x": 9275,
+          "y": -2200,
+          "zOrder": 122,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "b1912754-fdf0-4eec-9545-882205adc4d2",
+          "width": 0,
+          "x": 8950,
+          "y": -2150,
+          "zOrder": 123,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "e675bbe3-6aee-4403-a7f8-436f1fdbe8ec",
+          "width": 0,
+          "x": 9800,
+          "y": -2150,
+          "zOrder": 124,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Enemy",
+          "persistentUuid": "69c85ea2-90b3-4a82-aab7-4b96ce8f534d",
+          "width": 100,
+          "x": 8625,
+          "y": 150,
+          "zOrder": 125,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "810e15e8-7f1d-48e3-8dd4-fbe0dd80596e",
+          "width": 0,
+          "x": 9325,
+          "y": 200,
+          "zOrder": 126,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "133abf03-a5a3-424f-9c8f-d590e41955a9",
+          "width": 0,
+          "x": 8475,
+          "y": 200,
+          "zOrder": 127,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Enemy",
+          "persistentUuid": "1b9e1166-3283-493e-8873-75f27beaca32",
+          "width": 100,
+          "x": 12075,
+          "y": 100,
+          "zOrder": 128,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "471a9891-23eb-464a-9a2e-357ce1f8db06",
+          "width": 0,
+          "x": 12025,
+          "y": 100,
+          "zOrder": 129,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "bb2461c6-c899-4800-9220-4f488058c33e",
+          "width": 0,
+          "x": 12275,
+          "y": 100,
+          "zOrder": 130,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Enemy",
+          "persistentUuid": "e11a56d5-86dc-4b45-9a37-e2a2c05421d9",
+          "width": 100,
+          "x": 14300,
+          "y": 0,
+          "zOrder": 131,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "8aa99d55-a195-425a-b427-9db0e1419657",
+          "width": 0,
+          "x": 14550,
+          "y": 50,
+          "zOrder": 132,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "7bdc12a0-28b4-46fe-aa0c-40732cc6860d",
+          "width": 0,
+          "x": 14250,
+          "y": 50,
+          "zOrder": 133,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Enemy",
+          "persistentUuid": "7dc3f833-c269-4637-80e3-86a31c366bb5",
+          "width": 100,
+          "x": 12325,
+          "y": -1100,
+          "zOrder": 134,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKanan",
+          "persistentUuid": "f833f972-205d-43d0-ab17-7876cd2fa4d1",
+          "width": 0,
+          "x": 12150,
+          "y": -1050,
+          "zOrder": 135,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "ArahKiri",
+          "persistentUuid": "7ed22f20-1240-4f45-b511-bd95d3202b44",
+          "width": 0,
+          "x": 12700,
+          "y": -1050,
+          "zOrder": 136,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "Floor",
+          "persistentUuid": "3fd059bf-ec59-439e-a205-92036e0690ad",
+          "width": 200,
+          "x": 4400,
+          "y": 400,
+          "zOrder": 62,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "c6aa2f9c-1cb6-492a-8e81-04464080bfe8",
+          "width": 125,
+          "x": 7750,
+          "y": 100,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "1c849590-2cfe-4d3a-a51c-0c2546dc5acf",
+          "width": 125,
+          "x": 8125,
+          "y": 100,
+          "zOrder": 74,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "1667a943-1539-4142-9d4d-e9792446d731",
+          "width": 175,
+          "x": 14475,
+          "y": -50,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "e3d12ac3-f07a-4697-b41f-28bd00552cfb",
+          "width": 175,
+          "x": 14475,
+          "y": -200,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "894af754-b35f-42d9-9e20-de3784f0a197",
+          "width": 175,
+          "x": 14475,
+          "y": -350,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "0ba21c20-2155-45e7-85cf-f5af93ebcd6d",
+          "width": 175,
+          "x": 14475,
+          "y": -500,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "13917b0b-ef73-47ff-b4cf-68f8d59740d4",
+          "width": 175,
+          "x": 14475,
+          "y": -650,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "3bcfebfb-e61e-4afa-8106-7918a1eee3b4",
+          "width": 175,
+          "x": 14475,
+          "y": -800,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "c0e88359-9924-4046-82bf-ae6a79070ed5",
+          "width": 175,
+          "x": 14475,
+          "y": -850,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "4769486d-437d-4127-ac62-5a5143821894",
+          "width": 225,
+          "x": 10100,
+          "y": -1500,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "1c237faa-e1a2-4bbe-a8b2-7aaddd3f20c1",
+          "width": 225,
+          "x": 10100,
+          "y": -1700,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "eba5c026-7ba3-4c42-978f-32f254e22aa4",
+          "width": 225,
+          "x": 10100,
+          "y": -1800,
+          "zOrder": 92,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "height": 100,
+          "layer": "",
+          "locked": false,
+          "name": "FloorJumpThrough",
+          "persistentUuid": "5c667690-c098-4641-9a1f-cb1155cf278f",
+          "width": 225,
+          "x": 10100,
+          "y": -1900,
+          "zOrder": 92,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2033,8 +5006,9 @@
             {
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
-              "acceleration": 1500,
               "maxSpeed": 400,
+              "roundCoordinates": true,
+              "acceleration": 1500,
               "ignoreDefaultControls": true,
               "canGrabPlatforms": false,
               "deceleration": 1500,
@@ -2043,7 +5017,6 @@
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
-              "roundCoordinates": true,
               "slopeMaxAngle": 60,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -2280,104 +5253,27 @@
                 {
                   "looping": false,
                   "timeBetweenFrames": 0.08,
-                  "sprites": []
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\character\\pl_idle1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
                 }
               ]
-            }
-          ]
-        },
-        {
-          "height": 48,
-          "name": "Floor",
-          "tags": "",
-          "texture": "assets\\Tiles\\tile27.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 48,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Physics2",
-              "type": "Physics2::Physics2Behavior",
-              "bodyType": "Static",
-              "bullet": false,
-              "fixedRotation": false,
-              "canSleep": true,
-              "shape": "Box",
-              "shapeDimensionA": 0,
-              "shapeDimensionB": 0,
-              "shapeOffsetX": 0,
-              "shapeOffsetY": 0,
-              "polygonOrigin": "Center",
-              "vertices": [],
-              "density": 1,
-              "friction": 0.3,
-              "restitution": 0.1,
-              "linearDamping": 0.1,
-              "angularDamping": 0.1,
-              "gravityScale": 1,
-              "layers": 1,
-              "masks": 1
-            },
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "height": 48,
-          "name": "Floorr2",
-          "tags": "",
-          "texture": "assets\\Tiles\\tile124.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 48,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "height": 48,
-          "name": "NewObject",
-          "tags": "",
-          "texture": "assets\\Tiles\\tile125.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 48,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
-        },
-        {
-          "height": 48,
-          "name": "NewObject2",
-          "tags": "",
-          "texture": "assets\\Tiles\\tile39.png",
-          "type": "TiledSpriteObject::TiledSprite",
-          "width": 48,
-          "variables": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
             }
           ]
         },
@@ -2921,6 +5817,23 @@
                     },
                     {
                       "hasCustomCollisionMask": false,
+                      "image": "assets\\NewObject-1-2-1-2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 40.4,
+                        "y": 36.4
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 40.4,
+                        "y": 37.2
+                      },
+                      "customCollisionMask": []
+                    },
+                    {
+                      "hasCustomCollisionMask": false,
                       "image": "assets\\NewObject-1-2-3.png",
                       "points": [],
                       "originPoint": {
@@ -3089,7 +6002,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": false,
-                      "image": "Bullet-1.png",
+                      "image": "Bullet-1-0.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3129,6 +6042,673 @@
                     {
                       "hasCustomCollisionMask": false,
                       "image": "PlayerWeapon-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UiPause",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\pause1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 23.8,
+                        "y": 30
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\pause2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 23.8,
+                        "y": 30
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\pause3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 23.8,
+                        "y": 30
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DarkOverlay",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject4",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject4-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "bold": false,
+          "italic": false,
+          "name": "Dialogue",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "|",
+          "font": "",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          }
+        },
+        {
+          "name": "NextDialogue",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject4",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject4-1-0.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Avatar",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": []
+                }
+              ]
+            },
+            {
+              "name": "Beige",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "kepala_human.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Zombie",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject4-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "Floor",
+          "tags": "Tile",
+          "texture": "assets\\Tiles\\floor2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "FloorUp",
+          "tags": "Tile",
+          "texture": "assets\\Tiles\\floor3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "FloorUp2",
+          "tags": "Tile",
+          "texture": "assets\\Tiles\\floor4.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "FloorUp3",
+          "tags": "Tile",
+          "texture": "assets\\Tiles\\floor5.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 500,
+          "name": "Background",
+          "tags": "",
+          "texture": "assets\\background.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 1000,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 100,
+          "name": "Block",
+          "tags": "",
+          "texture": "assets\\Tiles\\roof7.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 100,
+          "name": "MovingPlatform",
+          "tags": "Tile",
+          "texture": "assets\\Tiles\\block-3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [
+            {
+              "name": "Arah",
+              "value": "kanan"
+            }
+          ],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "Block2",
+          "tags": "",
+          "texture": "assets\\Tiles\\roof5.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "Block3",
+          "tags": "",
+          "texture": "assets\\Tiles\\roof6.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 100,
+          "name": "FloorWVent",
+          "tags": "Tile",
+          "texture": "assets\\Tiles\\floor1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "FloorUp4",
+          "tags": "",
+          "texture": "assets\\Tiles\\floor4.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "Escx",
+          "tags": "",
+          "texture": "assets\\Tiles\\block-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 100,
+          "name": "FloorJumpThrough",
+          "tags": "",
+          "texture": "assets\\Tiles\\block-2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "Jumpthru",
+              "yGrabOffset": 0
+            }
+          ]
+        },
+        {
+          "height": 100,
+          "name": "Laser",
+          "tags": "",
+          "texture": "assets\\Tiles\\laser.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "Lava",
+          "tags": "",
+          "texture": "NewFile-1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "Furni",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Tiles\\furniture-1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Drawer",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "assets\\Tiles\\furniture-9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "height": 50,
+          "name": "Trap",
+          "tags": "",
+          "texture": "assets\\Tiles\\trap1.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "NewObject",
+          "tags": "",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 100,
+          "name": "Roof",
+          "tags": "",
+          "texture": "assets\\Tiles\\roof3.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 100,
+          "name": "Roof2",
+          "tags": "",
+          "texture": "assets\\Tiles\\roof2.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 100,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "height": 32,
+          "name": "NewObject2",
+          "tags": "",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "behaviors": []
+        },
+        {
+          "name": "Door",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewObject4",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewObject4-1-1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3235,6 +6815,17 @@
                     "Controller",
                     "=",
                     "400"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"ShootDelay\""
                   ],
                   "subInstructions": []
                 }
@@ -3350,8 +6941,8 @@
                           "parameters": [
                             "",
                             "Player",
-                            "0",
-                            "-400",
+                            "100",
+                            "-3200",
                             "obj_limit.X()",
                             "obj_limit.Y()",
                             "",
@@ -3768,11 +7359,125 @@
                     {
                       "type": {
                         "inverted": false,
-                        "value": "KeyPressed"
+                        "value": "BuiltinCommonInstructions::Or"
+                      },
+                      "parameters": [],
+                      "subInstructions": [
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Bullet",
+                            "Floor",
+                            "",
+                            "",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Bullet",
+                            "FloorUp",
+                            "",
+                            "",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Bullet",
+                            "FloorWVent",
+                            "",
+                            "",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Bullet",
+                            "FloorUp2",
+                            "",
+                            "",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Bullet",
+                            "FloorUp4",
+                            "",
+                            "",
+                            ""
+                          ],
+                          "subInstructions": []
+                        },
+                        {
+                          "type": {
+                            "inverted": false,
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Bullet",
+                            "FloorUp3",
+                            "",
+                            "",
+                            ""
+                          ],
+                          "subInstructions": []
+                        }
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Bullet",
+                        ""
+                      ],
+                      "subInstructions": []
+                    }
+                  ],
+                  "events": []
+                },
+                {
+                  "disabled": false,
+                  "folded": false,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": false,
+                        "value": "SourisBouton"
                       },
                       "parameters": [
                         "",
-                        "Space"
+                        "Left"
                       ],
                       "subInstructions": []
                     },
@@ -3878,6 +7583,18 @@
                                 "1"
                               ],
                               "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ChangePlan"
+                              },
+                              "parameters": [
+                                "Bullet",
+                                "=",
+                                "300"
+                              ],
+                              "subInstructions": []
                             }
                           ],
                           "events": []
@@ -3925,6 +7642,18 @@
                                 "1"
                               ],
                               "subInstructions": []
+                            },
+                            {
+                              "type": {
+                                "inverted": false,
+                                "value": "ChangePlan"
+                              },
+                              "parameters": [
+                                "Bullet",
+                                "=",
+                                "300"
+                              ],
+                              "subInstructions": []
                             }
                           ],
                           "events": []
@@ -3943,7 +7672,7 @@
                               "parameters": [
                                 "Bullet",
                                 "=",
-                                "10"
+                                "12"
                               ],
                               "subInstructions": []
                             },
@@ -3955,7 +7684,7 @@
                               "parameters": [
                                 "Bullet",
                                 "=",
-                                "60"
+                                "12"
                               ],
                               "subInstructions": []
                             }
@@ -4048,6 +7777,92 @@
                   "parameters": [
                     "Player",
                     "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "a"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::SimulateLeftKey"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Player",
+                    "yes"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "d"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "PlatformBehavior::SimulateRightKey"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PlatformerObject"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Player",
+                    "no"
                   ],
                   "subInstructions": []
                 }
@@ -4318,11 +8133,56 @@
           "disabled": false,
           "folded": false,
           "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "ArahKiri"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "ArahKanan"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
               "type": {
                 "inverted": false,
-                "value": "VarObjetTxt"
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Enemy",
+                "ArahKanan",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjetTxt"
               },
               "parameters": [
                 "Enemy",
@@ -4333,28 +8193,39 @@
               "subInstructions": []
             }
           ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Enemy",
+                "ArahKiri",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
           "actions": [
             {
               "type": {
                 "inverted": false,
-                "value": "AddForceXY"
+                "value": "ModVarObjetTxt"
               },
               "parameters": [
                 "Enemy",
-                "125",
-                "0",
-                "0"
-              ],
-              "subInstructions": []
-            },
-            {
-              "type": {
-                "inverted": false,
-                "value": "FlipX"
-              },
-              "parameters": [
-                "Enemy",
-                "no"
+                "Arah",
+                "=",
+                "\"kiri\""
               ],
               "subInstructions": []
             }
@@ -4416,11 +8287,149 @@
             {
               "type": {
                 "inverted": false,
-                "value": "CollisionNP"
+                "value": "VarObjetTxt"
               },
               "parameters": [
                 "Enemy",
-                "ArahKiri",
+                "Arah",
+                "=",
+                "\"kanan\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "Enemy",
+                "125",
+                "0",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Enemy",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjetTxt"
+              },
+              "parameters": [
+                "Enemy",
+                "Arah",
+                "=",
+                "\"kanan\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "Enemy",
+                "125",
+                "0",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "FlipX"
+              },
+              "parameters": [
+                "Enemy",
+                "no"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "ArahKiri"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "ArahKanan"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Moving Platform",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "MovingPlatform",
+                "ArahKanan",
                 "",
                 "",
                 ""
@@ -4435,10 +8444,10 @@
                 "value": "ModVarObjetTxt"
               },
               "parameters": [
-                "Enemy",
+                "MovingPlatform",
                 "Arah",
                 "=",
-                "\"kiri\""
+                "\"kanan\""
               ],
               "subInstructions": []
             }
@@ -4456,8 +8465,8 @@
                 "value": "CollisionNP"
               },
               "parameters": [
-                "Enemy",
-                "ArahKanan",
+                "MovingPlatform",
+                "ArahKiri",
                 "",
                 "",
                 ""
@@ -4472,10 +8481,119 @@
                 "value": "ModVarObjetTxt"
               },
               "parameters": [
-                "Enemy",
+                "MovingPlatform",
+                "Arah",
+                "=",
+                "\"kiri\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjetTxt"
+              },
+              "parameters": [
+                "MovingPlatform",
+                "Arah",
+                "=",
+                "\"kiri\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "MovingPlatform",
+                "-225",
+                "0",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjetTxt"
+              },
+              "parameters": [
+                "MovingPlatform",
                 "Arah",
                 "=",
                 "\"kanan\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "AddForceXY"
+              },
+              "parameters": [
+                "MovingPlatform",
+                "225",
+                "0",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "MovingPlatform",
+                "ArahKiri",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjetTxt"
+              },
+              "parameters": [
+                "MovingPlatform",
+                "Arah",
+                "=",
+                "\"kiri\""
               ],
               "subInstructions": []
             }
@@ -4753,6 +8871,1294 @@
             }
           ],
           "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Pause Menu",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Pause",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeWidth"
+              },
+              "parameters": [
+                "DarkOverlay",
+                "=",
+                "ScreenWidth()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeHeight"
+              },
+              "parameters": [
+                "DarkOverlay",
+                "=",
+                "ScreenHeight()"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "UiPause",
+                "=",
+                "SceneWindowWidth()/2",
+                "=",
+                "SceneWindowHeight()/2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "Escape"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Pause",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Pause",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "Pause",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Pause",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "DarkOverlay",
+                "0",
+                "0",
+                "\"UI\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "DarkOverlay",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Opacity"
+              },
+              "parameters": [
+                "DarkOverlay",
+                "=",
+                "100"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "UiPause",
+                "SceneWindowWidth()/2",
+                "SceneWindowHeight()/2",
+                "\"UI\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeWidth"
+              },
+              "parameters": [
+                "UiPause",
+                "=",
+                "350"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeHeight"
+              },
+              "parameters": [
+                "UiPause",
+                "=",
+                "350"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangePlan"
+              },
+              "parameters": [
+                "UiPause",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Pause",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeTimeScale"
+              },
+              "parameters": [
+                "",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "DarkOverlay",
+                ""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Delete"
+              },
+              "parameters": [
+                "UiPause",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Pause",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "s"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "+",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarScene"
+              },
+              "parameters": [
+                "Pause",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "KeyPressed"
+              },
+              "parameters": [
+                "",
+                "w"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "+",
+                "-1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "=",
+                "3"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "=",
+                "-1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "UiPause",
+                "=",
+                "0"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Return"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ModVarScene"
+                  },
+                  "parameters": [
+                    "Pause",
+                    "=",
+                    "0"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "UiPause",
+                "=",
+                "1"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Return"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Game\"",
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "VarObjet"
+              },
+              "parameters": [
+                "UiPause",
+                "Item",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ChangeAnimation"
+              },
+              "parameters": [
+                "UiPause",
+                "=",
+                "2"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Return"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Quit"
+                  },
+                  "parameters": [
+                    ""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Dialogue",
+          "comment2": ""
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DialogueTree::LoadDialogueFromJsonFile"
+              },
+              "parameters": [
+                "",
+                "dialogue.json"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "text_scroll_speed",
+                "=",
+                "0.05"
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Dialogue"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DialogueTree::StartDialogueFromBranch"
+              },
+              "parameters": [
+                "\"First\""
+              ],
+              "subInstructions": []
+            },
+            {
+              "type": {
+                "inverted": false,
+                "value": "Montre"
+              },
+              "parameters": [
+                "Dialogue",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": [],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Cache"
+              },
+              "parameters": [
+                "Dialogue"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DialogueTree::IsDialogueLineType"
+              },
+              "parameters": [
+                "\"text\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "TextObject::String"
+              },
+              "parameters": [
+                "Dialogue",
+                "=",
+                "DialogueTree::ClippedLineText()"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "Timer"
+                  },
+                  "parameters": [
+                    "",
+                    "Variable(text_scroll_speed)",
+                    "\"text_scroll\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::ScrollClippedText"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "ResetTimer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"text_scroll\""
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Return"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::HasClippedTextScrollingCompleted"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::GoToNextLine"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "AnyKeyPressed"
+              },
+              "parameters": [
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "ModVarScene"
+              },
+              "parameters": [
+                "text_scroll_speed",
+                "=",
+                "0.02"
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "DialogueTree::IsDialogueLineType"
+              },
+              "parameters": [
+                "\"options\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Down"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::SelectNextOption"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Up"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::SelectPreviousOption"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            },
+            {
+              "disabled": false,
+              "folded": false,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "KeyReleased"
+                  },
+                  "parameters": [
+                    "",
+                    "Return"
+                  ],
+                  "subInstructions": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "inverted": false,
+                    "value": "DialogueTree::ConfirmSelectOption"
+                  },
+                  "parameters": [],
+                  "subInstructions": []
+                }
+              ],
+              "events": []
+            }
+          ]
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Laser",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Game\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Lava",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Game\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Door",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Finish\"",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
+        },
+        {
+          "disabled": false,
+          "folded": false,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Trap",
+                "",
+                "",
+                ""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "inverted": false,
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"Game\""
+              ],
+              "subInstructions": []
+            }
+          ],
+          "events": []
         }
       ],
       "layers": [
@@ -4808,6 +10214,109 @@
           "type": "PlatformBehavior::PlatformerObjectBehavior"
         }
       ]
+    },
+    {
+      "b": 0,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Finish",
+      "name": "Finish",
+      "oglFOV": 90,
+      "oglZFar": 500,
+      "oglZNear": 1,
+      "r": 0,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 0,
+      "uiSettings": {
+        "grid": false,
+        "gridB": 255,
+        "gridG": 180,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridR": 158,
+        "gridWidth": 32,
+        "snap": true,
+        "windowMask": false,
+        "zoomFactor": 0.52
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "layer": "",
+          "locked": false,
+          "name": "endText",
+          "persistentUuid": "553c0c2d-240f-4c56-b6cc-5a802504fd1f",
+          "width": 0,
+          "x": 248,
+          "y": 209,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "bold": false,
+          "italic": false,
+          "name": "endText",
+          "smoothed": true,
+          "tags": "",
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "behaviors": [],
+          "string": "THE END",
+          "font": "andlso.ttf",
+          "characterSize": 86,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          }
+        },
+        {
+          "name": "NewObject",
+          "tags": "",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "behaviors": [],
+          "animations": []
+        }
+      ],
+      "events": [],
+      "layers": [
+        {
+          "ambientLightColorB": 8948072,
+          "ambientLightColorG": 8966864,
+          "ambientLightColorR": 8982832,
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "name": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": []
+        }
+      ],
+      "behaviorsSharedData": []
     }
   ],
   "externalEvents": [
@@ -4915,6 +10424,17 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Player",
+                    ""
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "PlatformBehavior::SimulateRightKey"
                   },
                   "parameters": [
@@ -4932,17 +10452,6 @@
                     "Player",
                     "=",
                     "1"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "FlipX"
-                  },
-                  "parameters": [
-                    "Player",
-                    ""
                   ],
                   "subInstructions": []
                 }
@@ -4970,6 +10479,17 @@
                 {
                   "type": {
                     "inverted": false,
+                    "value": "FlipX"
+                  },
+                  "parameters": [
+                    "Player",
+                    "yes"
+                  ],
+                  "subInstructions": []
+                },
+                {
+                  "type": {
+                    "inverted": false,
                     "value": "PlatformBehavior::SimulateLeftKey"
                   },
                   "parameters": [
@@ -4987,17 +10507,6 @@
                     "Player",
                     "=",
                     "1"
-                  ],
-                  "subInstructions": []
-                },
-                {
-                  "type": {
-                    "inverted": false,
-                    "value": "FlipX"
-                  },
-                  "parameters": [
-                    "Player",
-                    "yes"
                   ],
                   "subInstructions": []
                 }
